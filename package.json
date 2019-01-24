@@ -11,7 +11,19 @@
   "author": "chernandezadev",
   "license": "MIT",
   "devDependencies": {
+    "chalk": "^2.4.2",
     "express": "^4.16.4",
     "nodemon": "1.18.9"
+  },
+  "dependencies": {
+    "boom": "^7.3.0",
+    "dotenv": "^6.2.0",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.4.0",
+    "mongodb": "^3.1.13",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "passport-jwt": "^4.0.0",
+    "pug": "^2.0.3"
   }
 }
